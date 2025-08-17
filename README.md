@@ -1,7 +1,7 @@
-# Real_Estate_Price_Prediction
+# Real Estate Price Prediction
 
 ## Overview
-This project predicts property prices based on various features such as location, total square feet area, and BHK (bedroom) count. The dataset is cleaned, preprocessed, and analyzed before applying multiple machine learning models to identify the best-performing model.
+This project focuses on predicting property prices in Bengaluru using real-world data from the `Bengaluru House Prices` dataset. The goal was to apply data cleaning, feature engineering, and machine learning techniques to build an accurate price prediction model. Throughout the project, I explored the dataset, handled missing values and outliers, and experimented with multiple regression models to identify the one that best captures the patterns in Bengaluru’s real estate market.
 
 ---
 
