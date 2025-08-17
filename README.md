@@ -1,4 +1,4 @@
-# Real Estate Price Prediction
+# Real Estate Price Analysis using Machine Learning
 
 ## Overview
 This project focuses on predicting property prices in Bengaluru using real-world data from the `Bengaluru House Prices` dataset. The goal was to apply data cleaning, feature engineering, and machine learning techniques to build an accurate price prediction model. Throughout the project, I explored the dataset, handled missing values and outliers, and experimented with multiple regression models to identify the one that best captures the patterns in Bengaluru’s real estate market.
